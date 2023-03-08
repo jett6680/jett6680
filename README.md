@@ -3,6 +3,7 @@
     <img 
       src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" 
       height="22"
+      width="22"
     />
 </h1>
 
