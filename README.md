@@ -7,7 +7,7 @@
     />
 </h1>
 
-> A general has a sword, but don't cut flies; if you want to become a big tree, don't fight with grass.
+<pre> A general has a sword, but don't cut flies; if you want to become a big tree, don't fight with grass. </pre>
 
 ## Frameworks and Tools
 
