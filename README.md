@@ -7,9 +7,7 @@
     />
 </h1>
 
-<pre>
-将军有剑,不斩苍蝇;欲成大树,莫与草争。
-</pre> 
+> A general has a sword, but don't cut flies; if you want to become a big tree, don't fight with grass.
 
 ## Frameworks and Tools
 
