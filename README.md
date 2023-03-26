@@ -3,12 +3,11 @@
     <img 
       src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" 
       height="22"
+      width="22"
     />
 </h1>
 
-<pre>
-将军有剑,不斩苍蝇;欲成大树,莫与草争。
-</pre> 
+<pre> A general has a sword, but don't cut flies; if you want to become a big tree, don't fight with grass. </pre>
 
 ### My Github Page
 
