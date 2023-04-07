@@ -25,6 +25,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=fff)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=powerjett.home.resume&left_text=Visitors)
 
 ## GitHub Stats
 
