@@ -1,5 +1,5 @@
 <h2>
-    Hello there, I'm Powerjett 
+    Hello there, I'm Jett 
     <img 
       src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" 
       height="22"
